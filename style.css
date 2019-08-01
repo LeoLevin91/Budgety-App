@@ -32,7 +32,7 @@ body {
 **********************************************/
 
 .top {
-    height: 40vh;
+    height: 50vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
     background-size: cover;
     background-position: center;
@@ -76,6 +76,7 @@ body {
 
 .budget__expenses {
     background-color: #FF5049;
+
 }
 
 .budget__income--text,
@@ -275,4 +276,3 @@ h2 {
 
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
-
